@@ -1,0 +1,3 @@
+﻿  FIFO.cpp
+c:\users\admin\desktop\projekty\fifo\fifo tablicowo\fifo- tablicowa\fifo- tablicowa\fifo.cpp(91): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'QFIFOItem'
+  FIFO- tablicowa.vcxproj -> C:\Users\Admin\Desktop\Projekty\FIFO\FIFO tablicowo\FIFO- tablicowa\Debug\FIFO- tablicowa.exe
